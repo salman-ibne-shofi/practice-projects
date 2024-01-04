@@ -1,0 +1,18 @@
+.one {
+  background-image: url(./cute-cow-cartoon-character-vector-44134337.jpg);
+  text-align: center;
+  text-decoration: solid;
+  margin: 50px;
+  border: 10px solid black;
+  border-radius: 20px;
+  padding: 10px;
+
+}
+.two {
+    margin: 300px;
+    background-color: rgb(71, 71, 146);
+    border: 10px solid;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
